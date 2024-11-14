@@ -3,8 +3,6 @@
 I am an IT Engineer, specializing in automation. I like to make the tedious stuff a thing of the past!
 
 I have a background in run-of-the-mill System Administration as well as Full Stack Engineering. My passion is in IT, but I think being able to write effective scripts is so important in our field. I'll be using this github as a repository for any useful scripts I can come up with
-
-Toodles ~
   
 
 <!--
